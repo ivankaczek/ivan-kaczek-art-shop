@@ -1,0 +1,25 @@
+body {
+    background-color: #deeaee;
+}
+
+h1 {
+color: #c94c4c;
+}
+
+h6 {
+    color: #eea29a;
+}
+
+header {
+    background-color: #b1cbbb;
+}
+
+footer {
+    background-color: #b1cbbb;
+}
+
+.container {
+    display: flex;
+    display: grid;
+    gap: 1.5rem;
+}
